@@ -24,9 +24,12 @@ jobs:
       # Install all dependencies
       - name: Install dependencies with npm
         run: npm install
+      
       # Run/start all dependencies
-      - name: Start app
-        run: npm start
+      # Removing because the workflow got stuck at this step
+      #- name: Start app
+      #  run: npm start
+      
       # Build the app
       - name: build react app
         run: npm run build
