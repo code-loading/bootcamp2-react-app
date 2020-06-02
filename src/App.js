@@ -15,6 +15,7 @@ function App() {
         </p>
         <p>Happy to report still updating</p>
         <p>Testing github workflow surge deployment</p>
+        <p>Github workflow deployment to surge is working!!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
