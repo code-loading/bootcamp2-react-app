@@ -14,6 +14,7 @@ function App() {
           This website will be deployed on surge.sh hosting. Still updating?
         </p>
         <p>Happy to report still updating</p>
+        <p>Testing github workflow surge deployment</p>
         <a
           className="App-link"
           href="https://reactjs.org"
