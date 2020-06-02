@@ -10,6 +10,10 @@ function App() {
         <p>
           This is Ehsan's first react app built using create-react-app
         </p>
+        <p>
+          This website will be deployed on surge.sh hosting. Still updating?
+        </p>
+        <p>Happy to report still updating</p>
         <a
           className="App-link"
           href="https://reactjs.org"
